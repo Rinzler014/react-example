@@ -40,7 +40,7 @@ function TaskForm() {
         className='bg-slate-300 p-3 w-full mb-2'
         />
         
-        <button className='bg-indigo-500 px-3 py-1 text-white rounded-md' >Submit HomeWork</button>
+        <button className='bg-indigo-500 px-3 py-1 text-white rounded-md hover:bg-indigo-300' >Submit HomeWork</button>
 
       </form>
     </div>
